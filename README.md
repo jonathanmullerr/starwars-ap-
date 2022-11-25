@@ -1,4 +1,4 @@
-# starwars-ap-
+# starwars-api
 Get data from swapi.dev to mongodb
 
 # How to run
